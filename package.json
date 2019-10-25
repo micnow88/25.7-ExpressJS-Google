@@ -1,0 +1,25 @@
+{
+  "name": "25.7-expressjs-google",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnow88/25.7-ExpressJS-Google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micnow88/25.7-ExpressJS-Google/issues"
+  },
+  "homepage": "https://github.com/micnow88/25.7-ExpressJS-Google#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0",
+    "pug": "^2.0.4"
+  }
+}
